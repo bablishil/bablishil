@@ -1,4 +1,4 @@
-- 👋 Hi, I’m bablishil
+- 👋 Hi, I’m Babli Shil
 - 👀 I’m interested in Web Technology 
 - 🌱 I’m currently learning MERN stack devlopment
 - ✉️ Contact me on bablishil16@gmail.com
